@@ -1,0 +1,4 @@
+import pandas
+
+sqldatabase = sqlite3.connect(sys.argv[1])
+cursor = db.cursor()
